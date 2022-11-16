@@ -1,0 +1,36 @@
+.bug-edit,
+.bug-details {
+    margin: auto;
+    width: 400px;
+}
+
+.bug-edit form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-block-end: 10px;
+    text-align: start;
+}
+
+.bug-edit label {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.bug-edit label span {
+    padding-inline-start: 10px;
+}
+
+.bug-edit label input,
+.bug-edit label textarea {
+    margin-inline-end: 10px;
+}
+
+.bug-edit .actions {
+    align-self: center;
+    margin-block-start: 20px;
+}

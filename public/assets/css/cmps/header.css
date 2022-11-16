@@ -1,0 +1,19 @@
+header {
+    font-family: cursive;
+    font-size: 1.5em;
+    text-align: center;
+    margin-block-end: 20px;
+    color: #767676;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.subheader {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-block-end: 20px;
+}

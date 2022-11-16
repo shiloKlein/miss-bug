@@ -1,0 +1,27 @@
+[
+  {
+    "username": "koby",
+    "password": "lakers",
+    "fullname": "koby Brient",
+    "_id": "nZ2Xx"
+  },
+  {
+    "username": "Kasay",
+    "password": "buli",
+    "fullname": "Guli Yat",
+    "_id": "Vv58l",
+    "isAdmin": "true"
+  },
+  {
+    "fullname": "puki the 2nd ♀",
+    "username": "puki",
+    "password": "secret",
+    "_id": "zQuW7"
+  },
+  {
+    "fullname": "Marana",
+    "username": "muki",
+    "password": "secret",
+    "_id": "iFeco"
+  }
+]

@@ -1,0 +1,34 @@
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+#app {
+    background: #83d3f6;
+    margin-block-start: 20px;
+    border-radius: 5px;
+    padding-block: 20px;
+    padding-inline: 40px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 1.05em;
+}
+
+button:hover {
+    color: rgb(180, 180, 180);
+}
+
+a {
+    text-decoration: none;
+    color: #3a7396;
+}
+
+a:hover {
+    text-decoration: underline;
+}
